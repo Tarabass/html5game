@@ -1,0 +1,17 @@
+
+
+{
+    "username": "bob",
+    "password": "pass"
+}
+{
+    "username": "bob2",
+    "password": "pass2"
+}
+{
+    "username": "bob3",
+    "password": "pass3"
+}
+
+{"username":"bob","level":123,"questComplete":["myQuest","myQuest2"]}
+{"username":"bob2","level":2,"questComplete":["myQuest2"]}
